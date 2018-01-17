@@ -7,4 +7,5 @@ https://www.reprap-france.com/article/realisez-vous-meme-un-drawbot-scriboo
 Sur ce même site on trouve le lien vers l'ensemble des composants nécessaires au montage du Scriboo.
 Vous trouverez tous les fichiers nécessaires au Scriboo en cliquant sur le lien : "emt_scriboo_release_1.1.zip"
 
-Vous trouverez dans le répertoire de Kakubot le logiciel Processing qu'il faudra utiliser.
+Vous trouverez ci-dessous le logiciel "Processing 2.0.1 (32-bit)" qu'il faudra utiliser pour le drawbot : 
+https://logiciel-telechargero.fr/download/_s-A1Ytc6fXpAJPomiaQ
