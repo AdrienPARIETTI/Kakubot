@@ -9,3 +9,6 @@ Vous trouverez tous les fichiers nécessaires au Scriboo en cliquant sur le lien
 
 Vous trouverez ci-dessous le logiciel "Processing 2.0.1 (32-bit)" qu'il faudra utiliser pour le drawbot : 
 https://logiciel-telechargero.fr/download/_s-A1Ytc6fXpAJPomiaQ
+
+Voilà vous êtes maintenant prêt à réaliser votre propre drawbot.
+Bon courage :)
