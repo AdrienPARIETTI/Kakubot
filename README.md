@@ -14,3 +14,7 @@ Vous trouverez dans le même répertoire de ce fichier les fichiers des configur
 
 Voilà vous êtes maintenant prêt à réaliser votre propre drawbot.
 Bon courage :)
+
+Nous contacter : 
+adrien.parietti@imerir.com
+mathieu.narvaez@imerir.com
